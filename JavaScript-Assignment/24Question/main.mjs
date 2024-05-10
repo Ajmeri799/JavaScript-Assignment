@@ -5,3 +5,4 @@ import { webTechList } from "./web_techs.mjs";
 
 console.log(webTechList);
 console.log(country);
+
