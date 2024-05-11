@@ -8,6 +8,7 @@
 
 import { country } from "./24Question/countries.mjs";
 
+
 // solution here
 let xy = countries.includes("land");
 console.log(xy);
